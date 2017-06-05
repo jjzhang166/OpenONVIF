@@ -105,7 +105,7 @@ set(HEADERS
     ${PROJECT_SOURCE_DIR}/include/BaseServer.h
     ${PROJECT_SOURCE_DIR}/include/BaseClient.h
     ${PROJECT_SOURCE_DIR}/include/OnvifSDK.h
-    ${PROJECT_SOURCE_DIR}/../WsDiscovery/WsddLib.h)
+    ${PROJECT_SOURCE_DIR}/WsDiscovery/WsddLib.h)
 
 set(SOURCES
     ${PROJECT_SOURCE_DIR}/gen/source/stdsoap2.cpp
